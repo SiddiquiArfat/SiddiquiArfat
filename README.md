@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arfatsiddiqui070@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XEPU5UL2qHLXm7pyQCEQsmdSkGQtI4cM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
