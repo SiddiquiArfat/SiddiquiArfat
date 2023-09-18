@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arfat Siddiqui</h1>
 <h3 align="center">A passionate Java Backend Developers</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+     <a>
+     <img src="https://readme-typing-svg.demolab.com/?lines=Hello there! This is Siddiqui Arfat ; A Java%20Backend%20Developer           &font=Fira%20Code&center=true&width=440&height=45&color=dark&vCenter=true&size=22&pause=1000"></a>
+      </p>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquiarfat&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquiarfat" /> </p>
