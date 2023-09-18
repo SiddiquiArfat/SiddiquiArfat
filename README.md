@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquiarfat&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquiarfat" /> </p>
 
 ## 💫 About Me:
+<img align="right" src="gif/giphy.gif" style="width:400px; height:300px;">
 
 -🔭 I’m currently working on Spring Security
 
