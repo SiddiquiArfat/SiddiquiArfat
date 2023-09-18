@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, JDBC, Hibernet, Spring Boot**
 
-- 💬 Ask me about **HTML, CSS, JS, JAVA, DSA**
+- 💬 Ask me about **HTML, CSS, JS, JAVA, DSA, Spring, Spring Boot, Spring Security, Hibernate, JDBC**
 
 - 📫 How to reach me **arfatsiddiqui070@gmail.com**
 
