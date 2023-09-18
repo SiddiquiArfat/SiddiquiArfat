@@ -5,16 +5,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiquiarfat&label=Profile%20views&color=0e75b6&style=flat" alt="siddiquiarfat" /> </p>
-
-- 🌱 I’m currently learning **Java, JDBC, Hibernet, Spring Boot**
-
-- 💬 Ask me about **HTML, CSS, JS, JAVA, DSA, Spring, Spring Boot, Spring Security, Hibernate, JDBC**
-
-- 📫 How to reach me **arfatsiddiqui070@gmail.com**
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1y_ql2btuZ3oOXofu0g6Ac8H3N-L2kt2_/view?usp=sharing)
-
-- 📘 My Portfolio [here](https://siddiquiarfat.github.io/)
+# 💫 About Me:
+🔭 I’m currently working on Spring Security<br>🌱 I’m currently learning Full Stack Java Development<br>💬 Ask me about HTML, CSS, JavaScript, MySQL, JDBC, Hibernate, Spring Boot, Sprint Security<br>
+📫 How to reach me **arfatsiddiqui070@gmail.com** <br>
+📄 Know about my experiences [here](https://drive.google.com/file/d/1y_ql2btuZ3oOXofu0g6Ac8H3N-L2kt2_/view?usp=sharing)<br>
+📘 My Portfolio [here](https://siddiquiarfat.github.io/)<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
